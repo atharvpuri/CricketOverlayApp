@@ -19,4 +19,4 @@ A desktop app that overlays cricket scores on live camera video like a TV broadc
 2. `python main.py`
 
 ## Built by
-Atharv Puri 🔥
+Atharv Puri 
